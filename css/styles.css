@@ -1,0 +1,28 @@
+/*******tag seloctor****************************/
+
+body{background-color:#409dbcb7;}
+hr{width: 5%;
+   border-style: dotted;
+   border-color: rgb(61, 175, 137);
+   border-top: none;
+   border-left: none;
+   border-right: none;
+   border-width: 7px;
+  }
+  h1{color: #0ca2b0;}
+  /*لون الاج وان ما تغير للاخضر مزرق لان غيرنه لونه مره
+   لخ بطريقه الاي دي  تعتبر اقوى تغير بالسي اس اس*/
+  h3{color: #0ca2b0;}
+
+/*******class seloctor**************************/
+.p1:hover{color:rgb(17, 140, 138);
+/*الهوفير نكدر نستخدمه لاي عنصر حددناه بالتاك او الاي دي انو
+ لمن نحدد الماوس عليه راح يسوي فعاليات احنه محدديه*/
+    font-size:large;}
+/* .كلاس يستدعى بال */
+
+
+
+/*******id seloctor*****************************/
+#h1{color:rgb(192, 174, 86);}
+/*  #اي دي يستدعى بال*/
